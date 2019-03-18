@@ -12,4 +12,5 @@ Seminar | Description | Credits to
 [4_functions](./4_functions) | Functions, into to generators | [@KochetovNicolai](https://github.com/KochetovNicolai)
 [5_strings](./5_strings) | Lists, dicts, some standard functions | [@alexeyqu](https://github.com/alexeyqu)
 [6_classes](./6_classes) | Classes, inheritance | [@paulin-mipt](https://github.com/paulin-mipt)
+[6_classes](./7_magic) | Magic methods | [@paulin-mipt](https://github.com/paulin-mipt)
 TBC | |
