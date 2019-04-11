@@ -15,4 +15,5 @@ Seminar | Description | Credits to
 [7_magic](./7_magic) | Magic methods | [@paulin-mipt](https://github.com/paulin-mipt)
 [8_scraping](./8_scraping) | HTML, HTTP, Web Scraping | [@alexeyqu](https://github.com/alexeyqu)
 [9_web](./9_web) | Flask, REST | [@paulin-mipt](https://github.com/paulin-mipt), [@alexeyqu](https://github.com/alexeyqu)
+[10_db](./10_db) | SQL, SQLAlchemy | [@KochetovNicolai](https://github.com/KochetovNicolai)
 TBC | |
